@@ -33,7 +33,7 @@
     interactive links and buttons
   </li> 
   <li>
-    hover effects applied to every card in sections Gallery and Testimonials
+    hover effects applied to every card in section Product
   </li> 
   <li>
     hamburger menu icon gets alternated with navigation links on resizing to <code>1024px</code>
